@@ -1,2 +1,3 @@
 # Cannyscan
-Scanning
+Scanning>home
+#home<\open>
